@@ -10,5 +10,5 @@ int main()
 	for (int i = n-1; i >= 0; i--) {
 		printf("%d ", arry[i]);
 	}
-	0
+	
 }
