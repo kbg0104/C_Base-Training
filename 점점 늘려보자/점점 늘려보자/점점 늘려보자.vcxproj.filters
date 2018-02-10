@@ -21,9 +21,6 @@
     <ClCompile Include="1403.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1405.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1407.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -39,13 +36,106 @@
     <ClCompile Include="1294.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1287.cpp">
+    <ClCompile Include="1409.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1286.cpp">
+    <ClCompile Include="1285.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1285.cpp">
+    <ClCompile Include="1286.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1287.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1405.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1410.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Desktop\1001.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1002.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1003.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1004.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1005.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1006.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1007.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1010.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1011.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1012.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1013.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1014.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1015.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1017.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1018.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1019.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1020.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1021.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1022.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1023.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1116.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1122.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1279.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1280.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1281.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1282.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1283.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\user\Downloads\1675.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
