@@ -15,27 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스6.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1095.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -46,6 +25,27 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1407.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1094.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1093.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1295.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1294.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1287.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1286.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1285.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
