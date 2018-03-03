@@ -417,5 +417,17 @@
     <ClCompile Include="..\..\..\Users\user\Downloads\1677.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1411.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1412.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1416.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1420.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
