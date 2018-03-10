@@ -8,10 +8,14 @@ int main()
 
 
 }
-long long int ol(n)
+long long int ol(long long int n)
 {
 	if (n == 1) {
 		printf("1");
+		return 0;
+	}
+	if (n == 0) {
+		printf("0");
 		return 0;
 	}
 	if (n % 2 == 1) {

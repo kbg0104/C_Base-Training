@@ -426,7 +426,10 @@
     <ClCompile Include="1416.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1420.cpp">
+    <ClCompile Include="1420.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1284.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
