@@ -5,7 +5,7 @@ int main()
 {
 	int *n_box, *m_box;
 	int n, m, sum;
-	scanf("%d", &n);
+	scanf("%d", &n); 
 	n_box = ((int*)calloc(n, sizeof(int)));
 	for (int i = 0; i < n; i++) {
 		scanf("%d", &n_box[i]);
