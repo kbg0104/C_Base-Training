@@ -735,5 +735,8 @@
     <ClCompile Include="1430_2.p">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1440.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
