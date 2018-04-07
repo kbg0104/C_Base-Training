@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
+//#include <stdbool.h>
 int main()
 {
 	int *n_box, *m_box;
@@ -19,11 +19,11 @@ int main()
 	}
 	
 	for (int i = 0; i < m; i++) {
-		bool bol = false;
+		int bol = 0;
 		for (int j = 0; j < n; j++) {
 			if (m_box[i] == n_box[j]) {
 				printf("1 ");
-				bol = true;
+				bol = 1;
 				break;
 			}
 		}

@@ -3,12 +3,13 @@
 int main()
 {
 	int n, m, sum;
-	int n_box[10000000], *m_box;
+	int n_box[10000000] = { 0 }, *m_box;
 	scanf("%d", &n);
 	for (int i = 0; i < n; i++) {
 		scanf("%d", &sum);
-		n_box[sum - 1]++;
+		n_box[sum]++;
 	}
+
 	scanf("%d", &m);
 	m_box = ((int*)calloc(m, sizeof(int)));
 	for (int j = 0; j < m; j++) {
@@ -18,15 +19,6 @@ int main()
 		if (n_box[m_box[i]] >= 1)
 			printf("1 ");
 		else
-			printf("0");
+			printf("0 ");
 	}
-
-
-
-
-
-
-
-
-
 }
