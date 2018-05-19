@@ -732,9 +732,6 @@
     <ClCompile Include="1365_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1430_2.p">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1440.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -742,6 +739,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1097%28미%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1430_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
