@@ -738,10 +738,10 @@
     <ClCompile Include="1096.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1097%28미%29.cpp">
+    <ClCompile Include="1430_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1430_2.c">
+    <ClCompile Include="1097.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
